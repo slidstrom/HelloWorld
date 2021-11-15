@@ -1,0 +1,16 @@
+{
+  "name": "skywalkglobal",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html --port 3003",
+    "build": "parcel build index.html"
+  },
+  "author": "Spencer Lidstrom",
+  "license": "ISC",
+  "devDependencies":{
+    "parcel-bundler": "^1.12.4"
+  }
+}
